@@ -1,5 +1,3 @@
-//   Reversing Array
-
 #include <stdio.h>
 #include <math.h>
 #include <windows.h>
