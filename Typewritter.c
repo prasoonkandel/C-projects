@@ -1,5 +1,5 @@
-/* this uses pointer but can be done with other simple
-by uaing iterator of loop as array index */
+/*this uses pointer but can be done with other simple
+by uaing iterator of loop as array index*/
 #include <stdio.h>
 #include <math.h>
 #include <windows.h>
